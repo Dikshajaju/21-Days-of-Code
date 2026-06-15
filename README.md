@@ -15,4 +15,4 @@ Welcome to my 21-day coding journey.
 
 | Day | Quest | Status |
 |------|---------|--------|
-| Day 01 | Developer Audit | In Progress |
+| Day 01 | Developer Audit | Completed |
