@@ -16,3 +16,4 @@ Welcome to my 21-day coding journey.
 | Day | Quest | Status |
 |------|---------|--------|
 | Day 01 | Developer Audit | Completed |
+| Day 02 | Python Mastery | Completed |
