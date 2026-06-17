@@ -17,3 +17,4 @@ Welcome to my 21-day coding journey.
 |------|---------|--------|
 | Day 01 | Developer Audit | Completed |
 | Day 02 | Python Mastery | Completed |
+| Day 03 | String Warrior | Completed |
