@@ -24,3 +24,10 @@ FROM employees;
 where department = 'IT';
 
 SELECT MAX(salary) FROM employees;
+
+SELECT AVG(salary) AS average_salary
+FROM employees;
+
+SELECT COUNT(*) AS total_employees
+FROM employees
+GROUP BY department;
